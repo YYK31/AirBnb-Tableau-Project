@@ -1,5 +1,6 @@
 # AirBnb-Tableau-Project
 ![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
+
 Conducted detailed analysis of 3 popular NYC Airbnb bookings in Manhattan, Brooklyn & Queens.
 
 Identified 2 strong guest preference for Entire homes or Private rooms, highlighting high demand.
